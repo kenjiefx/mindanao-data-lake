@@ -443,8 +443,8 @@
         "type": "city",
         "name": "Isabela City",
         "region": {
-            "_id": "64e310fa4f160",
-            "name": "Zamboanga Peninsula Region"
+            "_id": "64e310fa4f168",
+            "name": "BARMM Region"
         },
         "province": {
             "_id": "64e310fa4f3cb",
