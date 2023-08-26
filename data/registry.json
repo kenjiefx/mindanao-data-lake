@@ -3,78 +3,114 @@
         "_id": "64e310fa4f160",
         "type": "region",
         "name": "Zamboanga Peninsula Region",
-        "about": "",
+        "about": "Situated in the western part of Mindanao, Zamboanga Peninsula Region is defined by a rich cultural tapestry and diverse landscapes. Known for its vibrant cultural heritage, the region boasts colorful festivals, unique dialects, and a fusion of culinary traditions.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "3875576",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"427776517838.548",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"7.51859837968199"
         }
     },
     "64e310fa4f164": {
         "_id": "64e310fa4f164",
         "type": "region",
         "name": "Northern Mindanao Region",
-        "about": "",
+        "about": "Boasting a strategic location and well-connected ports, Northern Mindanao further bolster trade and commerce, fostering investment opportunities and economic resilience. As the region continues to evolve, it strikes a balance between preserving its natural resources and embracing innovation, underscoring its pivotal role in the Philippines' economic landscape.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "5022768",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"935299920619.875",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"7.16022492180821"
         }
     },
     "64e310fa4f165": {
         "_id": "64e310fa4f165",
         "type": "region",
         "name": "Davao Region",
-        "about": "",
+        "about": "Nestled in the vibrant landscapes of the South, Davao Region beckons travelers with a diverse and captivating tourism experience. From the iconic peak of Mount Apo, to the serene shores of Samal Island, the region is a gateway to natural wonders, a 'name' well-known internationally.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "5243536",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"954074120733.49",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"8.1484629044846"
         }
     },
     "64e310fa4f166": {
         "_id": "64e310fa4f166",
         "type": "region",
         "name": "SOCCSKSARGEN Region",
-        "about": "",
+        "about": "With its name derived from the four provinces it encompasses—South Cotabato, Cotabato, Sultan Kudarat, Sarangani, and General Santos City—this region is a symphony of diverse traditions, harmoniously coexisting against the backdrop of lush mountains, fertile plains, and azure coastlines.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "4901486",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"503643512377.6",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"6.58877921670369"
         }
     },
     "64e310fa4f167": {
         "_id": "64e310fa4f167",
         "type": "region",
         "name": "CARAGA Region",
-        "about": "",
+        "about": "With a dynamic blend of natural resource abundance and growing industrial sectors, the home of the surfing capital of the Philippines, CARAGA Region is a significant contributor to the country's mining and forestry industries.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "2804788",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"323858829564.364",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"5.93844980614324"
         }
     },
     "64e310fa4f168": {
         "_id": "64e310fa4f168",
         "type": "region",
         "name": "BARMM Region",
-        "about": "",
+        "about": "Envisioned as a testament to peace and self-determination, BARMM embodies the rich heritage of its Muslim and indigenous communities, fostering an atmosphere of unity and progress, a testament to the enduring spirit of its people, dedicated to forging a brighter future while honoring the traditions that have shaped its identity for generations.",
         "cover_photo": "",
         "official_logo": "",
         "avatar": "",
         "population": {
             "total": "4404288",
             "as_of": "2020-05-01"
+        },
+        "grdp": {
+            "year_at":"2022",
+            "value":"280267304377.502",
+            "price_index": "At Constant 2018 Prices",
+            "growth_rate":"6.61243315430953"
         }
     },
     "64e310fa4f306": {
