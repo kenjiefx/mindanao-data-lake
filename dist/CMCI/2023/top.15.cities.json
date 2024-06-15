@@ -1,0 +1,452 @@
+{
+    "64e310fa4f46d": {
+        "category": "highly_urbanized",
+        "rank_trend": "down",
+        "rank": "6th",
+        "score": "49.0816",
+        "lgu": "Davao",
+        "province": "Davao Del Sur",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "3",
+            "score": "8.4444"
+        },
+        "government_efficiency": {
+            "rank": "16",
+            "score": "10.4872"
+        },
+        "infrastructure": {
+            "rank": "5",
+            "score": "8.2965"
+        },
+        "resiliency": {
+            "rank": "7",
+            "score": "13.2551"
+        },
+        "innovation": {
+            "rank": "11",
+            "score": "8.5984"
+        },
+        "location_id": "64e310fa4f46d"
+    },
+    "64e310fa4f420": {
+        "category": "highly_urbanized",
+        "rank_trend": "up",
+        "rank": "7th",
+        "score": "48.6120",
+        "lgu": "Cagayan De Oro",
+        "province": "Misamis Oriental",
+        "region": "REGION X (Northern Mindanao)",
+        "economic_dynamism": {
+            "rank": "14",
+            "score": "4.8493"
+        },
+        "government_efficiency": {
+            "rank": "7",
+            "score": "11.4919"
+        },
+        "infrastructure": {
+            "rank": "8",
+            "score": "6.7486"
+        },
+        "resiliency": {
+            "rank": "2",
+            "score": "15.3938"
+        },
+        "innovation": {
+            "rank": "5",
+            "score": "10.1284"
+        },
+        "location_id": "64e310fa4f420"
+    },
+    "64e310fa4f497": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "7th",
+        "score": "46.8482",
+        "lgu": "Tagum",
+        "province": "Davao Del Norte",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "13",
+            "score": "5.9459"
+        },
+        "government_efficiency": {
+            "rank": "6",
+            "score": "11.2806"
+        },
+        "infrastructure": {
+            "rank": "5",
+            "score": "8.0081"
+        },
+        "resiliency": {
+            "rank": "23",
+            "score": "11.8555"
+        },
+        "innovation": {
+            "rank": "8",
+            "score": "9.7581"
+        },
+        "location_id": "64e310fa4f497"
+    },
+    "64e310fa4f4a0": {
+        "category": "highly_urbanized",
+        "rank_trend": "up",
+        "rank": "11th",
+        "score": "42.1879",
+        "lgu": "General Santos",
+        "province": "South Cotabato",
+        "region": "REGION XII (Soccsksargen)",
+        "economic_dynamism": {
+            "rank": "15",
+            "score": "4.7618"
+        },
+        "government_efficiency": {
+            "rank": "10",
+            "score": "10.9526"
+        },
+        "infrastructure": {
+            "rank": "15",
+            "score": "5.3650"
+        },
+        "resiliency": {
+            "rank": "18",
+            "score": "11.9350"
+        },
+        "innovation": {
+            "rank": "7",
+            "score": "9.1735"
+        },
+        "location_id": "64e310fa4f4a0"
+    },
+    "64e310fa4f48f": {
+        "category": "component",
+        "rank_trend": "up",
+        "rank": "17th",
+        "score": "41.9092",
+        "lgu": "Panabo",
+        "province": "Davao Del Norte",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "22",
+            "score": "4.8602"
+        },
+        "government_efficiency": {
+            "rank": "50",
+            "score": "9.4380"
+        },
+        "infrastructure": {
+            "rank": "16",
+            "score": "5.9621"
+        },
+        "resiliency": {
+            "rank": "3",
+            "score": "13.5402"
+        },
+        "innovation": {
+            "rank": "30",
+            "score": "8.1087"
+        },
+        "location_id": "64e310fa4f48f"
+    },
+    "64e310fa4f475": {
+        "category": "component",
+        "rank_trend": null,
+        "rank": "19th",
+        "score": "41.6378",
+        "lgu": "Digos",
+        "province": "Davao Del Sur",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "29",
+            "score": "4.6165"
+        },
+        "government_efficiency": {
+            "rank": "8",
+            "score": "11.1623"
+        },
+        "infrastructure": {
+            "rank": "20",
+            "score": "5.7487"
+        },
+        "resiliency": {
+            "rank": "17",
+            "score": "12.0176"
+        },
+        "innovation": {
+            "rank": "31",
+            "score": "8.0927"
+        },
+        "location_id": "64e310fa4f475"
+    },
+    "64e310fa4f432": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "21st",
+        "score": "41.5817",
+        "lgu": "Gingoog",
+        "province": "Misamis Oriental",
+        "region": "REGION X (Northern Mindanao)",
+        "economic_dynamism": {
+            "rank": "17",
+            "score": "5.4447"
+        },
+        "government_efficiency": {
+            "rank": "18",
+            "score": "10.4901"
+        },
+        "infrastructure": {
+            "rank": "21",
+            "score": "5.7453"
+        },
+        "resiliency": {
+            "rank": "27",
+            "score": "11.7541"
+        },
+        "innovation": {
+            "rank": "29",
+            "score": "8.1475"
+        },
+        "location_id": "64e310fa4f432"
+    },
+    "64e310fa4f47e": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "23rd",
+        "score": "41.1983",
+        "lgu": "IGACOS",
+        "province": "Davao Del Norte",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "30",
+            "score": "4.4952"
+        },
+        "government_efficiency": {
+            "rank": "19",
+            "score": "10.3236"
+        },
+        "infrastructure": {
+            "rank": "24",
+            "score": "5.6570"
+        },
+        "resiliency": {
+            "rank": "18",
+            "score": "11.9493"
+        },
+        "innovation": {
+            "rank": "17",
+            "score": "8.7732"
+        },
+        "location_id": "64e310fa4f47e"
+    },
+    "64e310fa4f4a8": {
+        "category": "component",
+        "rank_trend": "up",
+        "rank": "30th",
+        "score": "39.2518",
+        "lgu": "Kidapawan",
+        "province": "Cotabato (North Cotabato)",
+        "region": "REGION XII (Soccsksargen)",
+        "economic_dynamism": {
+            "rank": "31",
+            "score": "4.4938"
+        },
+        "government_efficiency": {
+            "rank": "22",
+            "score": "10.2374"
+        },
+        "infrastructure": {
+            "rank": "65",
+            "score": "4.3206"
+        },
+        "resiliency": {
+            "rank": "43",
+            "score": "11.5942"
+        },
+        "innovation": {
+            "rank": "19",
+            "score": "8.6058"
+        },
+        "location_id": "64e310fa4f4a8"
+    },
+    "64e310fa4f4f4": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "31st",
+        "score": "38.9946",
+        "lgu": "Cotabato",
+        "province": "Maguindanao",
+        "region": "BARMM - Bangsamoro Autonomous Region in Muslim Mindanao",
+        "economic_dynamism": {
+            "rank": "40",
+            "score": "4.0190"
+        },
+        "government_efficiency": {
+            "rank": "47",
+            "score": "9.4949"
+        },
+        "infrastructure": {
+            "rank": "23",
+            "score": "5.6694"
+        },
+        "resiliency": {
+            "rank": "47",
+            "score": "11.5808"
+        },
+        "innovation": {
+            "rank": "28",
+            "score": "8.2305"
+        },
+        "location_id": "64e310fa4f4f4"
+    },
+    "64e310fa4f4b0": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "32nd",
+        "score": "38.8262",
+        "lgu": "Koronadal",
+        "province": "South Cotabato",
+        "region": "REGION XII (Soccsksargen)",
+        "economic_dynamism": {
+            "rank": "43",
+            "score": "3.9368"
+        },
+        "government_efficiency": {
+            "rank": "33",
+            "score": "9.8797"
+        },
+        "infrastructure": {
+            "rank": "44",
+            "score": "4.7643"
+        },
+        "resiliency": {
+            "rank": "8",
+            "score": "12.7870"
+        },
+        "innovation": {
+            "rank": "46",
+            "score": "7.4584"
+        },
+        "location_id": "64e310fa4f4b0"
+    },
+    "64e310fa4f4b8": {
+        "category": "component",
+        "rank_trend": "up",
+        "rank": "35th",
+        "score": "38.7673",
+        "lgu": "Tacurong",
+        "province": "Sultan Kudarat",
+        "region": "REGION XII (Soccsksargen)",
+        "economic_dynamism": {
+            "rank": "42",
+            "score": "3.9606"
+        },
+        "government_efficiency": {
+            "rank": "24",
+            "score": "10.1222"
+        },
+        "infrastructure": {
+            "rank": "74",
+            "score": "4.0738"
+        },
+        "resiliency": {
+            "rank": "49",
+            "score": "11.5617"
+        },
+        "innovation": {
+            "rank": "15",
+            "score": "9.0490"
+        },
+        "location_id": "64e310fa4f4b8"
+    },
+    "64e310fa4f4d2": {
+        "category": "highly_urbanized",
+        "rank_trend": "up",
+        "rank": "20th",
+        "score": "38.3162",
+        "lgu": "Butuan",
+        "province": "Agusan Del Norte",
+        "region": "REGION XIII (Caraga)",
+        "economic_dynamism": {
+            "rank": "23",
+            "score": "3.9046"
+        },
+        "government_efficiency": {
+            "rank": "21",
+            "score": "9.8512"
+        },
+        "infrastructure": {
+            "rank": "18",
+            "score": "5.0213"
+        },
+        "resiliency": {
+            "rank": "21",
+            "score": "11.7349"
+        },
+        "innovation": {
+            "rank": "20",
+            "score": "7.8042"
+        },
+        "location_id": "64e310fa4f4d2"
+    },
+    "64e310fa4f486": {
+        "category": "component",
+        "rank_trend": "down",
+        "rank": "39th",
+        "score": "38.0427",
+        "lgu": "Mati",
+        "province": "Davao Oriental",
+        "region": "REGION XI (Davao Region)",
+        "economic_dynamism": {
+            "rank": "87",
+            "score": "2.9323"
+        },
+        "government_efficiency": {
+            "rank": "54",
+            "score": "9.3372"
+        },
+        "infrastructure": {
+            "rank": "36",
+            "score": "5.1342"
+        },
+        "resiliency": {
+            "rank": "51",
+            "score": "11.5420"
+        },
+        "innovation": {
+            "rank": "13",
+            "score": "9.0970"
+        },
+        "location_id": "64e310fa4f486"
+    },
+    "64e310fa4f412": {
+        "category": "highly_urbanized",
+        "rank_trend": "down",
+        "rank": "22nd",
+        "score": "37.4007",
+        "lgu": "Zamboanga",
+        "province": "Zamboanga City",
+        "region": "REGION IX (Zamboanga Peninsula)",
+        "economic_dynamism": {
+            "rank": "24",
+            "score": "3.7355"
+        },
+        "government_efficiency": {
+            "rank": "20",
+            "score": "9.8548"
+        },
+        "infrastructure": {
+            "rank": "11",
+            "score": "5.8887"
+        },
+        "resiliency": {
+            "rank": "24",
+            "score": "11.5353"
+        },
+        "innovation": {
+            "rank": "30",
+            "score": "6.3864"
+        },
+        "location_id": "64e310fa4f412"
+    }
+}
